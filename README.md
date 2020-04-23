@@ -2,7 +2,6 @@
 
 ![DorianYoung](https://github.com/DorianYoung/Chat-Cam/blob/master/public/Assets/appDeployed.jpg?raw=true)
 
-https://github.com/DorianYoung
 
 <h2>Chat Cam</h2>
     
